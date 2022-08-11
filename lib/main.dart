@@ -78,6 +78,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     //     builder: (context) => CharacterDetailsPage(
                     //       id: character['id'],
                     //     )));
+
+                    // hello
                   },
                   child: SizedBox(
                     height: 150,
