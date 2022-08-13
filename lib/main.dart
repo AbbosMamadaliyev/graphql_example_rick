@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     //       id: character['id'],
                     //     )));
 
-                    // hello
+                    // hello ssh-keygen -t rsa -b 4096 -C " abbbos166@gmail.com "
                   },
                   child: SizedBox(
                     height: 150,
